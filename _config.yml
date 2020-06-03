@@ -65,3 +65,9 @@ permalink:   /:categories/:title
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
+
+
+
+url: https://takagotch.github.io/page22/
+baseurl: https://takagotch.github.io/page22/
+
