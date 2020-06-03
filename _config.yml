@@ -1,20 +1,20 @@
-title:            Balzac
+title:            Tkvtv
 tagline:          A beautiful theme.
 description:      Describe your website.
 canonical: https://takagotch.github.io/page22
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Takashi Yoshioka
   avatar:         avatar.png
   bio:            "Aesthete & Athlete"
   email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
+  twitter:        takagotch
+  github:         takagotch
+  instagram:      takagotch
   dribbble:       coletownsend
   disqus:         balzac
-  location:       "Buffalo, NY"
+  location:       "Osaka, JP"
   # Plug in your disqus shortname!
 
 tools:
